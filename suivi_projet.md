@@ -52,3 +52,23 @@
 -   Continuer à travailler sur la génération de données fictives pour les "Tiers" afin de tester les fonctionnalités.
 -   Documenter le processus d'installation des prérequis pour référence future.
 
+## Séance n° 4
+
+- **Jeudi 24 Octobre de 16h00 à 18h30**
+
+### Travail effectué :
+- **Mise en place de l'environnement** : Création d'une machine virtuelle Ubuntu et téléchargement de Dolibarr.
+- **Installation de Dolibarr** :
+  - Décompression des fichiers et configuration d'Apache pour pointer vers le bon répertoire.
+  - Vérification du bon fonctionnement du serveur Apache.
+  - Lancement de l'installation de Dolibarr, création de la base de données, et configuration du compte superadmin.
+- **Validation** : Accès réussi à la page d'accueil de Dolibarr.
+
+### À faire pour la prochaine séance :
+- Finaliser la configuration des modules.
+- Importer des données via le menu "Outils".
+- Explorer les fonctionnalités de Dolibarr.
+
+### Difficultés rencontrées :
+- Résolution d'une erreur 404 initiale liée à la structure des répertoires.
+
