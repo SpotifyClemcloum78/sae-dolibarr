@@ -49,7 +49,6 @@
 ### À faire pour la prochaine séance :
 
 -   Finaliser la configuration de Dolibarr avec la connexion à la base de données MariaDB.
--   Continuer à travailler sur la génération de données fictives pour les "Tiers" afin de tester les fonctionnalités.
 -   Documenter le processus d'installation des prérequis pour référence future.
 
 ## Séance n° 4
@@ -66,9 +65,17 @@
 
 ### À faire pour la prochaine séance :
 - Finaliser la configuration des modules.
-- Importer des données via le menu "Outils".
-- Explorer les fonctionnalités de Dolibarr.
+
+## Séance n° 5
+
+- **Vendredi Octobre de 14h00 à 16h30**
+
+### Travail effectué :
+- **Compréhension** :de dolibarr suite à son installation
+- **Téléchargement** : de mysql et création de la table dolibarr qui était mal configuré à la séance précédente
+
 
 ### Difficultés rencontrées :
-- Résolution d'une erreur 404 initiale liée à la structure des répertoires.
+- Lien entre mysql et dolibarr qui ne trouve pas la BDD
+
 
