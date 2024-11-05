@@ -86,6 +86,3 @@
 - **Réinstallation** de dolibarr avec une version différentes et de la base de données MariaDB
 - **Importation des Données dans Dolibarr** du fichier csv 
 
-### Difficultés rencontrées :
-- Lien entre mysql et dolibarr qui ne trouve pas la BDD
-
