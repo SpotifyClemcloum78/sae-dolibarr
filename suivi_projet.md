@@ -23,7 +23,7 @@
 -   Mercredi 16 Octobre de 13h30 à 16h30
 ### Travail effectué :
 
--   **Mise en place du Drive ** : Pour ajouté les personne concernés dans le drive de façon a partager nos avancés.
+-   **Mise en place du Drive** : Pour ajouté les personne concernés dans le drive de façon a partager nos avancés.
 -   **Structure du projet** : Création des dossiers de base (`docs/`, `sources/`, `tests/`, `data/`) et du fichier `readme.md`.
 -   **Début de l'implémentation** : Début du travail sur la gestion des "Tiers", notamment la définition des attributs nécessaires (nom, adresse, téléphone, email.).
 
@@ -65,7 +65,7 @@
 
 ## Séance n° 5
 
-- **Vendredi Octobre de 14h00 à 16h30**
+- **Vendredi 25 Octobre de 14h00 à 16h30**
 
 ### Travail effectué :
 - **Compréhension** :de dolibarr suite à son installation
@@ -82,7 +82,18 @@
 
 ### Travail effectué :
 - **Génération** du fichier CSV grâce à CHATGPT `donnees_tiers.csv`
-- **Création d'une nouvelle machine virtuelle** suite aux problèmes rencontrés avec le lien entre la BDD et dolibarr
-- **Réinstallation** de dolibarr avec une version différentes et de la base de données MariaDB
-- **Importation des Données dans Dolibarr** du fichier csv 
+- **Création d'une nouvelle machine virtuelle** suite aux problèmes rencontrés avec le lien entre la BDD et dolibarr.
+- **Réinstallation** de dolibarr avec une version différentes et de la base de données MariaDB.
+- **Importation des Données dans Dolibarr** du fichier csv.
+
+## Séance n° 7
+
+- **Mardi 5 Novembre de 14h30 à 17h30**
+
+### Travail effectué :
+- **Création** du read.me qui explique l'installation de dolibarr (MariaDb, importation csv, sauvegarde).
+- **Tentative de création d'un script**  qui puisse récuperer le fichier de la BDD importé dans Dolibarr.
+
+### À faire pour la prochaine séance :
+- Finaliser le script qui puisse montrer si l'import de la BDD a fonctionner
 
