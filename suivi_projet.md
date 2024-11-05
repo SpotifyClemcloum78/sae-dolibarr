@@ -33,9 +33,6 @@
 -   Générer des données fictives pour tester la fonctionnalité à l'aide de fichier `.csv`.
 -   Rédiger le fichier `suivi_projet.md` avec les détails des premières séances situé dans le drive.
 
-### Difficultés rencontrées :
-
--   **Problèmes techniques** : Difficulté à générer certains fichiers au format CSV du à des exigences techniques dont nous n'avons pas discuté en équipe (formats d'email et de téléphone), à résoudre la prochaine séance.
 
 ## Séance n° 3
 
@@ -78,4 +75,17 @@
 ### Difficultés rencontrées :
 - Lien entre mysql et dolibarr qui ne trouve pas la BDD
 
+
+## Séance n° 6
+
+- **Lundi 4 Novembre de 14h30 à 17h20**
+
+### Travail effectué :
+- **Génération** du fichier CSV grâce à CHATGPT `donnees_tiers.csv`
+- **Création d'une nouvelle machine virtuelle** suite aux problèmes rencontrés avec le lien entre la BDD et dolibarr
+- **Réinstallation** de dolibarr avec une version différentes et de la base de données MariaDB
+- **Importation des Données dans Dolibarr** du fichier csv 
+
+### Difficultés rencontrées :
+- Lien entre mysql et dolibarr qui ne trouve pas la BDD
 
