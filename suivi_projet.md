@@ -97,3 +97,22 @@
 ### À faire pour la prochaine séance :
 - Finaliser le script qui puisse montrer si l'import de la BDD a fonctionner
 
+## Séance n° 7
+
+- **Mercredi 6 Novembre de 13h00 à 16h00**
+
+### Travail effectué :
+-**Installation** de dolibarr sur une autre machine
+-**Importation** du fichier CSV créé auparavant par le support dolibarr
+
+### À faire pour la prochaine séance :
+- Importer le csv par le cmd pour pouvoir automatiser plus tard
+
+## Séance n° 8
+
+- **Jeudi 7 Novembre de 13h00 à 16h00**
+
+### Travail effectué :
+
+-**Tentative d'importation** du fichier CSV créé auparavant par le cmd
+-**Recherche** du bon format dans les tableaux sql importés lors du lancement
