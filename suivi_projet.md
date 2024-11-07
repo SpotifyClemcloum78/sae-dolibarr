@@ -116,3 +116,12 @@
 
 -**Tentative d'importation** du fichier CSV créé auparavant par le cmd
 -**Recherche** du bon format dans les tableaux sql importés lors du lancement
+
+## Séance n° 9 et 10
+
+- **Mercredi 13 Novembre de 9h00 à 13h00 et 14h00 à 16h00**
+
+-**Création du sript** d'automatisation 
+-**Configuration** du démarage automatique de dolibarr sur la VM
+-**Recherche** du bon format dans les tableaux sql importés lors du lancement
+
