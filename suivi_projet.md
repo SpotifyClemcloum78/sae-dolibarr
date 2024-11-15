@@ -125,3 +125,11 @@
 -**Configuration** du démarage automatique de dolibarr sur la VM
 -**Recherche** du bon format dans les tableaux sql importés lors du lancement
 
+## Séance n° 11
+
+**Jeudi 14 Novembre de 10h30 à 13h**
+
+-**Finalisation** du script
+-**Test** sur plusieurs machines
+
+
