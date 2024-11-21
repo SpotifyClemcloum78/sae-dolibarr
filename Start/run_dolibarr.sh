@@ -29,6 +29,16 @@ docker run -d \
 echo "Attente de l'initialisation de MariaDB..."
 sleep 15  # Attendre quelques secondes pour que MariaDB démarre
 
+# Installer MySQL dans le conteneur MariaDB
+echo "Installation de MySQL dans le conteneur MariaDB..."
+docker exec mariadb bash -c "apt-get update && apt-get install -y mysql-client"
+
+# Vérifier si MySQL est correctement installé
+if ! docker exec mariadb mysql --version &>/dev/null; then
+    echo "MySQL n'a pas pu être installé ou n'est pas accessible."
+    exit 1
+fi
+
 # Démarrer le conteneur Dolibarr
 echo "Lancement du conteneur Dolibarr..."
 docker run -d \
